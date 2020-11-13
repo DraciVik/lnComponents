@@ -10,8 +10,6 @@ Plain Javascript Component. Not needed any additional libraries, frameworks.
 
 ## Usage
 
-### Create obfuscated string
-
 Load script into .html
 
 Initial:

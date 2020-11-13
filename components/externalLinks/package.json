@@ -1,6 +1,6 @@
 {
   "name": "@livenetworks/external-links",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Live Networks script that converts all links to outer domains to open in a new window and adds the rel attribute of 'noreferrer noopener'",
   "main": "ln-external-links.js",
   "scripts": {
